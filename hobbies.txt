@@ -3,3 +3,4 @@
 - Motion Graphics
 - Digital Drawing
 - Painting
+- Walking
