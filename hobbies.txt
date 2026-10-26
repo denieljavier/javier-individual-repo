@@ -2,3 +2,4 @@
 - Visual Graphics
 - Motion Graphics
 - Digital Drawing
+- Painting
